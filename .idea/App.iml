@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/app_alc_ou_gaso/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_alc_ou_gaso/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_multiplicador/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_multiplicador/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_conceito2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_conceito2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_random/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_random/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_abertura_conta/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_abertura_conta/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_hello1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_hello1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_kenji/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_kenji/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_imc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_imc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_moeda/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_moeda/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_moeda/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_bank/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_bank/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_bank/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_vaga_emprego/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_vaga_emprego/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_vaga_emprego/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_navegador/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_navegador/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_navegador/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_hello/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_hello/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_hello/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_contador/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_contador/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_17/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_17/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_17/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_frases/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_frases/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_frases/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_aside/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_aside/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_aside/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
